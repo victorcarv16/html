@@ -1,2 +1,2 @@
 # html
-programas iniciais para criação de site paraa WEB
+programas iniciais, criação de site para WEB.
